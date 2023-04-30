@@ -1,2 +1,6 @@
+github.com/ViktorFjuk/funtemps v0.0.0-20230329192854-751eb45433ad h1:An4Nu1YD1JID7bihHbJ2x2qfYGgfjeK5kRD+JJckAlw=
+github.com/ViktorFjuk/funtemps v0.0.0-20230329192854-751eb45433ad/go.mod h1:6eGzdgGsIG4CSHxUiS4hn9Y4/yFN7Tt8xsKRt+NVt3g=
 github.com/ViktorFjuk/is105sem03 v0.0.0-20230423214056-27403ba27665 h1:MYoOzlno+ir8/5rteGRhzBK1yJ4Iko8sYJ6qisvKRp4=
 github.com/ViktorFjuk/is105sem03 v0.0.0-20230423214056-27403ba27665/go.mod h1:Eu5LhjnBd/tLNkdbm/3TiOeUG5wvmdEr91TvS7hhqUk=
+github.com/ViktorFjuk/minyr v0.0.0-20230416165649-1261e6b4f76e h1:qDw3fl8quA+4LiaL6aM1tGI3KvOh7XPOkdJMFsYXhP4=
+github.com/ViktorFjuk/minyr v0.0.0-20230416165649-1261e6b4f76e/go.mod h1:YCv5e+2LcoTlUVBo2xpW81aVqfTP++fu/MpPLuw/8qU=
